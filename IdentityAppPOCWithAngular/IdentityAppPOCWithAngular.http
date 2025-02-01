@@ -1,0 +1,6 @@
+@IdentityAppPOCWithAngular_HostAddress = http://localhost:5080
+
+GET {{IdentityAppPOCWithAngular_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
